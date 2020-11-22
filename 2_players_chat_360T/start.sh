@@ -1,0 +1,1 @@
+java -jar target/2_players_chat_360T-1.0.jar

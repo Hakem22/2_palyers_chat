@@ -1,0 +1,4 @@
+model\Player.class
+Chat.class
+model\PlayerImpl.class
+api\Broadcaster.class
